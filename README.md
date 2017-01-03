@@ -9,7 +9,7 @@ JavaScript Koans is an interactive learning environment that uses failing tests 
 
 ## Running the koans
 
-First, fork and clone (https://github.com/tiy-tpa-fee/koans)[the repository] from your own account, if needed.
+First, fork and clone [the repository](https://github.com/tiy-tpa-fee/koans) from your own account, if needed.
 
 ```sh
 npm install
